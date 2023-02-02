@@ -10,6 +10,12 @@ Here Python Codes Will be shared
   <a href="https://github.com/NaralaJithendra/Python_Programming_Codes/blob/main/Python%20Topics/The%20GitHub%20Edition%20-%20Python%20(Patterns).ipynb">Click Here👆🏻</a>
 </p>
 
+</p>
+<p align="center">
+  <h2><i><b>Python (Examples)</i></b></h2>
+  <a href="https://github.com/NaralaJithendra/Python_Programming_Codes/tree/main/Python%20Examples">Click Here👆🏻</a>
+</p>
+
 <p align="center">
   <i>Let's connect and chat! Open to anything.</i>
   <p align="center">
